@@ -1,0 +1,16 @@
+# Dataset
+data/
+
+# Generated config
+cowboy.yaml
+
+# YOLO training runs
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Misc
+.DS_Store
